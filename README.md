@@ -10,6 +10,7 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
 * Who are the most prolific musicians in terms of halftime show performances?
 
 ![Katy Perry performing at halftime of Super Bowl XLIX.](/images/left_shark.jpg)
+Katy Perry performing at halftime of Super Bowl XLIX. Photo by Huntley Paton. Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0).
 
 ## Dataset
 The dataset we'll use was scraped and polished from Wikipedia. It is made up of three CSV files, one with [game data](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions), one with [TV data](https://en.wikipedia.org/wiki/Super_Bowl_television_ratings), and one with [halftime musician data](https://en.wikipedia.org/wiki/List_of_Super_Bowl_halftime_shows) for all 52 Super Bowls through 2018. Let's take a look, using display() instead of print() since its output is much prettier in Jupyter Notebooks.
